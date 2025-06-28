@@ -1,6 +1,6 @@
 #streamdeck                          
 
-#<a href=""><button>Go</button></a>
+#<a href="streamer/index.html"><button>Go</button></a>
 
 #StreamDeck (aka Streamer) is a lightweight, browser-based livestream control panel that lets creators manage video, overlays, chat, and media in real time with a clean, interactive interface.
 

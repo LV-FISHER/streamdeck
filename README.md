@@ -1,5 +1,8 @@
-streamdeck                          <a href=""><button>Go</button></a>
-StreamDeck (aka Streamer) is a lightweight, browser-based livestream control panel that lets creators manage video, overlays, chat, and media in real time with a clean, interactive interface.
+#streamdeck                          
+
+#<a href="https://github.com/LV-FISHER/streamdeck/blob/afe21926eaeae8e89a873f89223f13f16aed6a7c/streamer/index.html"><button>Go</button></a>
+
+#StreamDeck (aka Streamer) is a lightweight, browser-based livestream control panel that lets creators manage video, overlays, chat, and media in real time with a clean, interactive interface.
 
 Privacy Policy and Terms of use
 📜 Privacy Policy Effective Date: 06/28/2025
